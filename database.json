@@ -1,0 +1,3322 @@
+[{
+    "id": "abdominal-aortic-plexus",
+    "label": {
+      "en": "Abdominal aortic plexus"
+    },
+    "description": {
+      "en": "Abdominal aortic plexus"
+    },
+    "aliases": {
+      "en": [
+        "Abdominal aortic plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "abducens-nerve",
+    "label": {
+      "en": "Abducens nerve"
+    },
+    "description": {
+      "en": "Abducens nerve"
+    },
+    "aliases": {
+      "en": [
+        "Abducens nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "accessory-nerve",
+    "label": {
+      "en": "Accessory nerve"
+    },
+    "description": {
+      "en": "Accessory nerve"
+    },
+    "aliases": {
+      "en": [
+        "Accessory nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "accessory-obturator-nerve",
+    "label": {
+      "en": "Accessory obturator nerve"
+    },
+    "description": {
+      "en": "Accessory obturator nerve"
+    },
+    "aliases": {
+      "en": [
+        "Accessory obturator nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "alderman's-nerve",
+    "label": {
+      "en": "Alderman's nerve"
+    },
+    "description": {
+      "en": "Alderman's nerve"
+    },
+    "aliases": {
+      "en": [
+        "Alderman's nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "anococcygeal-nerve",
+    "label": {
+      "en": "Anococcygeal nerve"
+    },
+    "description": {
+      "en": "Anococcygeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Anococcygeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ansa-cervicalis",
+    "label": {
+      "en": "Ansa cervicalis"
+    },
+    "description": {
+      "en": "Ansa cervicalis"
+    },
+    "aliases": {
+      "en": [
+        "Ansa cervicalis"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "anterior-interosseous-nerve",
+    "label": {
+      "en": "Anterior interosseous nerve"
+    },
+    "description": {
+      "en": "Anterior interosseous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Anterior interosseous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "anterior-superior-alveolar-nerve",
+    "label": {
+      "en": "Anterior superior alveolar nerve"
+    },
+    "description": {
+      "en": "Anterior superior alveolar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Anterior superior alveolar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "auerbach's-plexus",
+    "label": {
+      "en": "Auerbach's plexus"
+    },
+    "description": {
+      "en": "Auerbach's plexus"
+    },
+    "aliases": {
+      "en": [
+        "Auerbach's plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "auriculotemporal-nerve",
+    "label": {
+      "en": "Auriculotemporal nerve"
+    },
+    "description": {
+      "en": "Auriculotemporal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Auriculotemporal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "axillary-nerve",
+    "label": {
+      "en": "Axillary nerve"
+    },
+    "description": {
+      "en": "Axillary nerve"
+    },
+    "aliases": {
+      "en": [
+        "Axillary nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "brachial-plexus",
+    "label": {
+      "en": "Brachial plexus"
+    },
+    "description": {
+      "en": "Brachial plexus"
+    },
+    "aliases": {
+      "en": [
+        "Brachial plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "buccal-branch-of-the-facial-nerve",
+    "label": {
+      "en": "Buccal branch of the facial nerve"
+    },
+    "description": {
+      "en": "Buccal branch of the facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Buccal branch of the facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "buccal-nerve",
+    "label": {
+      "en": "Buccal nerve"
+    },
+    "description": {
+      "en": "Buccal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Buccal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "cardiac-plexus",
+    "label": {
+      "en": "Cardiac plexus"
+    },
+    "description": {
+      "en": "Cardiac plexus"
+    },
+    "aliases": {
+      "en": [
+        "Cardiac plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "cavernous-plexus",
+    "label": {
+      "en": "Cavernous plexus"
+    },
+    "description": {
+      "en": "Cavernous plexus"
+    },
+    "aliases": {
+      "en": [
+        "Cavernous plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "celiac-ganglia",
+    "label": {
+      "en": "Celiac ganglia"
+    },
+    "description": {
+      "en": "Celiac ganglia"
+    },
+    "aliases": {
+      "en": [
+        "Celiac ganglia"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "cervical-branch-of-the-facial-nerve",
+    "label": {
+      "en": "Cervical branch of the facial nerve"
+    },
+    "description": {
+      "en": "Cervical branch of the facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Cervical branch of the facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "cervical-plexus",
+    "label": {
+      "en": "Cervical plexus"
+    },
+    "description": {
+      "en": "Cervical plexus"
+    },
+    "aliases": {
+      "en": [
+        "Cervical plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "chorda-tympani",
+    "label": {
+      "en": "Chorda tympani"
+    },
+    "description": {
+      "en": "Chorda tympani"
+    },
+    "aliases": {
+      "en": [
+        "Chorda tympani"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ciliary-ganglion",
+    "label": {
+      "en": "Ciliary ganglion"
+    },
+    "description": {
+      "en": "Ciliary ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Ciliary ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "coccygeal-nerve",
+    "label": {
+      "en": "Coccygeal nerve"
+    },
+    "description": {
+      "en": "Coccygeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Coccygeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "cochlear-nerve",
+    "label": {
+      "en": "Cochlear nerve"
+    },
+    "description": {
+      "en": "Cochlear nerve"
+    },
+    "aliases": {
+      "en": [
+        "Cochlear nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "common-fibular-nerve",
+    "label": {
+      "en": "Common fibular nerve"
+    },
+    "description": {
+      "en": "Common fibular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Common fibular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "common-palmar-digital-nerves-of-median-nerve",
+    "label": {
+      "en": "Common palmar digital nerves of median nerve"
+    },
+    "description": {
+      "en": "Common palmar digital nerves of median nerve"
+    },
+    "aliases": {
+      "en": [
+        "Common palmar digital nerve",
+        "Common palmar digital nerves",
+        "Common palmar digital nerves of median nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "deep-branch-of-the-radial-nerve",
+    "label": {
+      "en": "Deep branch of the radial nerve"
+    },
+    "description": {
+      "en": "Deep branch of the radial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Deep branch of the radial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "deep-fibular-nerve",
+    "label": {
+      "en": "Deep fibular nerve"
+    },
+    "description": {
+      "en": "Deep fibular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Deep fibular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "deep-petrosal-nerve",
+    "label": {
+      "en": "Deep petrosal nerve"
+    },
+    "description": {
+      "en": "Deep petrosal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Deep petrosal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "deep-temporal-nerve",
+    "label": {
+      "en": "Deep temporal nerve"
+    },
+    "description": {
+      "en": "Deep temporal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Deep temporal nerve",
+        "Deep temporal nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "diagonal-band-of-broca",
+    "label": {
+      "en": "Diagonal band of Broca"
+    },
+    "description": {
+      "en": "Diagonal band of Broca"
+    },
+    "aliases": {
+      "en": [
+        "Diagonal band of Broca"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "digastric-branch-of-facial-nerve",
+    "label": {
+      "en": "Digastric branch of facial nerve"
+    },
+    "description": {
+      "en": "Digastric branch of facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Digastric branch of facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "dorsal-branch-of-ulnar-nerve",
+    "label": {
+      "en": "Dorsal branch of ulnar nerve"
+    },
+    "description": {
+      "en": "Dorsal branch of ulnar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal branch of ulnar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "dorsal-nerve-of-clitoris",
+    "label": {
+      "en": "Dorsal nerve of clitoris"
+    },
+    "description": {
+      "en": "Dorsal nerve of clitoris"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal nerve of clitoris"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "dorsal-nerve-of-the-penis",
+    "label": {
+      "en": "Dorsal nerve of the penis"
+    },
+    "description": {
+      "en": "Dorsal nerve of the penis"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal nerve of the penis"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "dorsal-scapular-nerve",
+    "label": {
+      "en": "Dorsal scapular nerve"
+    },
+    "description": {
+      "en": "Dorsal scapular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal scapular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "esophageal-plexus",
+    "label": {
+      "en": "Esophageal plexus"
+    },
+    "description": {
+      "en": "Esophageal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Esophageal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ethmoidal-nerve",
+    "label": {
+      "en": "Ethmoidal nerve"
+    },
+    "description": {
+      "en": "Ethmoidal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Ethmoidal nerve",
+        "Ethmoidal nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "external-laryngeal-nerve",
+    "label": {
+      "en": "External laryngeal nerve"
+    },
+    "description": {
+      "en": "External laryngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "External laryngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "external-nasal-nerve",
+    "label": {
+      "en": "External nasal nerve"
+    },
+    "description": {
+      "en": "External nasal nerve"
+    },
+    "aliases": {
+      "en": [
+        "External nasal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "facial-nerve",
+    "label": {
+      "en": "Facial nerve"
+    },
+    "description": {
+      "en": "Facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "femoral-nerve",
+    "label": {
+      "en": "Femoral nerve"
+    },
+    "description": {
+      "en": "Femoral nerve"
+    },
+    "aliases": {
+      "en": [
+        "Femoral nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "frontal-nerve",
+    "label": {
+      "en": "Frontal nerve"
+    },
+    "description": {
+      "en": "Frontal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Frontal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "gastric-plexuses",
+    "label": {
+      "en": "Gastric plexuses"
+    },
+    "description": {
+      "en": "Gastric plexuses"
+    },
+    "aliases": {
+      "en": [
+        "Gastric plexuses"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "geniculate-ganglion",
+    "label": {
+      "en": "Geniculate ganglion"
+    },
+    "description": {
+      "en": "Geniculate ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Geniculate ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "genital-branch-of-genitofemoral-nerve",
+    "label": {
+      "en": "Genital branch of genitofemoral nerve"
+    },
+    "description": {
+      "en": "Genital branch of genitofemoral nerve"
+    },
+    "aliases": {
+      "en": [
+        "Genital branch of genitofemoral nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "genitofemoral-nerve",
+    "label": {
+      "en": "Genitofemoral nerve"
+    },
+    "description": {
+      "en": "Genitofemoral nerve"
+    },
+    "aliases": {
+      "en": [
+        "Genitofemoral nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "glossopharyngeal-nerve",
+    "label": {
+      "en": "Glossopharyngeal nerve"
+    },
+    "description": {
+      "en": "Glossopharyngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Glossopharyngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "greater-auricular-nerve",
+    "label": {
+      "en": "Greater auricular nerve"
+    },
+    "description": {
+      "en": "Greater auricular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Greater auricular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "greater-occipital-nerve",
+    "label": {
+      "en": "Greater occipital nerve"
+    },
+    "description": {
+      "en": "Greater occipital nerve"
+    },
+    "aliases": {
+      "en": [
+        "Greater occipital nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "greater-petrosal-nerve",
+    "label": {
+      "en": "Greater petrosal nerve"
+    },
+    "description": {
+      "en": "Greater petrosal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Greater petrosal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "hepatic-plexus",
+    "label": {
+      "en": "Hepatic plexus"
+    },
+    "description": {
+      "en": "Hepatic plexus"
+    },
+    "aliases": {
+      "en": [
+        "Hepatic plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "hypoglossal-nerve",
+    "label": {
+      "en": "Hypoglossal nerve"
+    },
+    "description": {
+      "en": "Hypoglossal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Hypoglossal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "iliohypogastric-nerve",
+    "label": {
+      "en": "Iliohypogastric nerve"
+    },
+    "description": {
+      "en": "Iliohypogastric nerve"
+    },
+    "aliases": {
+      "en": [
+        "Iliohypogastric nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ilioinguinal-nerve",
+    "label": {
+      "en": "Ilioinguinal nerve"
+    },
+    "description": {
+      "en": "Ilioinguinal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Ilioinguinal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-alveolar-nerve",
+    "label": {
+      "en": "Inferior alveolar nerve"
+    },
+    "description": {
+      "en": "Inferior alveolar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Inferior alveolar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-anal-nerve",
+    "label": {
+      "en": "Inferior anal nerve"
+    },
+    "description": {
+      "en": "Inferior anal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Inferior anal nerve",
+        "Inferior anal nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-cardiac-nerve",
+    "label": {
+      "en": "Inferior cardiac nerve"
+    },
+    "description": {
+      "en": "Inferior cardiac nerve"
+    },
+    "aliases": {
+      "en": [
+        "Inferior cardiac nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-cervical-ganglion",
+    "label": {
+      "en": "Inferior cervical ganglion"
+    },
+    "description": {
+      "en": "Inferior cervical ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Inferior cervical ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-gluteal-nerve",
+    "label": {
+      "en": "Inferior gluteal nerve"
+    },
+    "description": {
+      "en": "Inferior gluteal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Inferior gluteal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-hypogastric-plexus",
+    "label": {
+      "en": "Inferior hypogastric plexus"
+    },
+    "description": {
+      "en": "Inferior hypogastric plexus"
+    },
+    "aliases": {
+      "en": [
+        "Inferior hypogastric plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-mesenteric-plexus",
+    "label": {
+      "en": "Inferior mesenteric plexus"
+    },
+    "description": {
+      "en": "Inferior mesenteric plexus"
+    },
+    "aliases": {
+      "en": [
+        "Inferior mesenteric plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "inferior-palpebral-nerve",
+    "label": {
+      "en": "Inferior palpebral nerve"
+    },
+    "description": {
+      "en": "Inferior palpebral nerve"
+    },
+    "aliases": {
+      "en": [
+        "Inferior palpebral nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "infraorbital-nerve",
+    "label": {
+      "en": "Infraorbital nerve"
+    },
+    "description": {
+      "en": "Infraorbital nerve"
+    },
+    "aliases": {
+      "en": [
+        "Infraorbital nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "infraorbital-plexus",
+    "label": {
+      "en": "Infraorbital plexus"
+    },
+    "description": {
+      "en": "Infraorbital plexus"
+    },
+    "aliases": {
+      "en": [
+        "Infraorbital plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "infratrochlear-nerve",
+    "label": {
+      "en": "Infratrochlear nerve"
+    },
+    "description": {
+      "en": "Infratrochlear nerve"
+    },
+    "aliases": {
+      "en": [
+        "Infratrochlear nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "intercostal-nerve",
+    "label": {
+      "en": "Intercostal nerve"
+    },
+    "description": {
+      "en": "Intercostal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Intercostal nerve",
+        "Intercostal nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "intercostobrachial-nerve",
+    "label": {
+      "en": "Intercostobrachial nerve"
+    },
+    "description": {
+      "en": "Intercostobrachial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Intercostobrachial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "intermediate-cutaneous-nerve",
+    "label": {
+      "en": "Intermediate cutaneous nerve"
+    },
+    "description": {
+      "en": "Intermediate cutaneous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Intermediate cutaneous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "internal-carotid-plexus",
+    "label": {
+      "en": "Internal carotid plexus"
+    },
+    "description": {
+      "en": "Internal carotid plexus"
+    },
+    "aliases": {
+      "en": [
+        "Internal carotid plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "internal-laryngeal-nerve",
+    "label": {
+      "en": "Internal laryngeal nerve"
+    },
+    "description": {
+      "en": "Internal laryngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Internal laryngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "interneuron",
+    "label": {
+      "en": "Interneuron"
+    },
+    "description": {
+      "en": "Interneuron"
+    },
+    "aliases": {
+      "en": [
+        "Interneuron"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "jugular-ganglion",
+    "label": {
+      "en": "Jugular ganglion"
+    },
+    "description": {
+      "en": "Jugular ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Jugular ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lacrimal-nerve",
+    "label": {
+      "en": "Lacrimal nerve"
+    },
+    "description": {
+      "en": "Lacrimal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lacrimal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lateral-cord",
+    "label": {
+      "en": "Lateral cord"
+    },
+    "description": {
+      "en": "Lateral cord"
+    },
+    "aliases": {
+      "en": [
+        "Lateral cord"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lateral-cutaneous-nerve-of-forearm",
+    "label": {
+      "en": "Lateral cutaneous nerve of forearm"
+    },
+    "description": {
+      "en": "Lateral cutaneous nerve of forearm"
+    },
+    "aliases": {
+      "en": [
+        "Lateral cutaneous nerve of forearm"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lateral-cutaneous-nerve-of-thigh",
+    "label": {
+      "en": "Lateral cutaneous nerve of thigh"
+    },
+    "description": {
+      "en": "Lateral cutaneous nerve of thigh"
+    },
+    "aliases": {
+      "en": [
+        "Lateral cutaneous nerve of thigh"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lateral-pectoral-nerve",
+    "label": {
+      "en": "Lateral pectoral nerve"
+    },
+    "description": {
+      "en": "Lateral pectoral nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lateral pectoral nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lateral-plantar-nerve",
+    "label": {
+      "en": "Lateral plantar nerve"
+    },
+    "description": {
+      "en": "Lateral plantar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lateral plantar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lateral-pterygoid-nerve",
+    "label": {
+      "en": "Lateral pterygoid nerve"
+    },
+    "description": {
+      "en": "Lateral pterygoid nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lateral pterygoid nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lesser-occipital-nerve",
+    "label": {
+      "en": "Lesser occipital nerve"
+    },
+    "description": {
+      "en": "Lesser occipital nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lesser occipital nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lingual-nerve",
+    "label": {
+      "en": "Lingual nerve"
+    },
+    "description": {
+      "en": "Lingual nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lingual nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "long-ciliary-nerve",
+    "label": {
+      "en": "Long ciliary nerve"
+    },
+    "description": {
+      "en": "Long ciliary nerve"
+    },
+    "aliases": {
+      "en": [
+        "Long ciliary nerve",
+        "Long ciliary nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "long-root-of-the-ciliary-ganglion",
+    "label": {
+      "en": "Long root of the ciliary ganglion"
+    },
+    "description": {
+      "en": "Long root of the ciliary ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Long root of the ciliary ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "long-thoracic-nerve",
+    "label": {
+      "en": "Long thoracic nerve"
+    },
+    "description": {
+      "en": "Long thoracic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Long thoracic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lower-subscapular-nerve",
+    "label": {
+      "en": "Lower subscapular nerve"
+    },
+    "description": {
+      "en": "Lower subscapular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lower subscapular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lumbar-nerve",
+    "label": {
+      "en": "Lumbar nerve"
+    },
+    "description": {
+      "en": "Lumbar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lumbar nerve",
+        "Lumbar nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lumbar-plexus",
+    "label": {
+      "en": "Lumbar plexus"
+    },
+    "description": {
+      "en": "Lumbar plexus"
+    },
+    "aliases": {
+      "en": [
+        "Lumbar plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lumbar-splanchnic-nerve",
+    "label": {
+      "en": "Lumbar splanchnic nerve"
+    },
+    "description": {
+      "en": "Lumbar splanchnic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lumbar splanchnic nerve",
+        "Lumbar splanchnic nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lumboinguinal-nerve",
+    "label": {
+      "en": "Lumboinguinal nerve"
+    },
+    "description": {
+      "en": "Lumboinguinal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Lumboinguinal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lumbosacral-plexus",
+    "label": {
+      "en": "Lumbosacral plexus"
+    },
+    "description": {
+      "en": "Lumbosacral plexus"
+    },
+    "aliases": {
+      "en": [
+        "Lumbosacral plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "lumbosacral-trunk",
+    "label": {
+      "en": "Lumbosacral trunk"
+    },
+    "description": {
+      "en": "Lumbosacral trunk"
+    },
+    "aliases": {
+      "en": [
+        "Lumbosacral trunk"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "mandibular-nerve",
+    "label": {
+      "en": "Mandibular nerve"
+    },
+    "description": {
+      "en": "Mandibular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Mandibular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "marginal-mandibular-branch-of-facial-nerve",
+    "label": {
+      "en": "Marginal mandibular branch of facial nerve"
+    },
+    "description": {
+      "en": "Marginal mandibular branch of facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Marginal mandibular branch of facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "masseteric-nerve",
+    "label": {
+      "en": "Masseteric nerve"
+    },
+    "description": {
+      "en": "Masseteric nerve"
+    },
+    "aliases": {
+      "en": [
+        "Masseteric nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "maxillary-nerve",
+    "label": {
+      "en": "Maxillary nerve"
+    },
+    "description": {
+      "en": "Maxillary nerve"
+    },
+    "aliases": {
+      "en": [
+        "Maxillary nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-cord",
+    "label": {
+      "en": "Medial cord"
+    },
+    "description": {
+      "en": "Medial cord"
+    },
+    "aliases": {
+      "en": [
+        "Medial cord"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-cutaneous-nerve-of-arm",
+    "label": {
+      "en": "Medial cutaneous nerve of arm"
+    },
+    "description": {
+      "en": "Medial cutaneous nerve of arm"
+    },
+    "aliases": {
+      "en": [
+        "Medial cutaneous nerve of arm"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-cutaneous-nerve-of-forearm",
+    "label": {
+      "en": "Medial cutaneous nerve of forearm"
+    },
+    "description": {
+      "en": "Medial cutaneous nerve of forearm"
+    },
+    "aliases": {
+      "en": [
+        "Medial cutaneous nerve of forearm"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-cutaneous-nerve",
+    "label": {
+      "en": "Medial cutaneous nerve"
+    },
+    "description": {
+      "en": "Medial cutaneous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Medial cutaneous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-pectoral-nerve",
+    "label": {
+      "en": "Medial pectoral nerve"
+    },
+    "description": {
+      "en": "Medial pectoral nerve"
+    },
+    "aliases": {
+      "en": [
+        "Medial pectoral nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-plantar-nerve",
+    "label": {
+      "en": "Medial plantar nerve"
+    },
+    "description": {
+      "en": "Medial plantar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Medial plantar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "medial-pterygoid-nerve",
+    "label": {
+      "en": "Medial pterygoid nerve"
+    },
+    "description": {
+      "en": "Medial pterygoid nerve"
+    },
+    "aliases": {
+      "en": [
+        "Medial pterygoid nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "median-nerve",
+    "label": {
+      "en": "Median nerve"
+    },
+    "description": {
+      "en": "Median nerve"
+    },
+    "aliases": {
+      "en": [
+        "Median nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "meissner's-plexus",
+    "label": {
+      "en": "Meissner's plexus"
+    },
+    "description": {
+      "en": "Meissner's plexus"
+    },
+    "aliases": {
+      "en": [
+        "Meissner's plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "mental-nerve",
+    "label": {
+      "en": "Mental nerve"
+    },
+    "description": {
+      "en": "Mental nerve"
+    },
+    "aliases": {
+      "en": [
+        "Mental nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "middle-cardiac-nerve",
+    "label": {
+      "en": "Middle cardiac nerve"
+    },
+    "description": {
+      "en": "Middle cardiac nerve"
+    },
+    "aliases": {
+      "en": [
+        "Middle cardiac nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "middle-cervical-ganglion",
+    "label": {
+      "en": "Middle cervical ganglion"
+    },
+    "description": {
+      "en": "Middle cervical ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Middle cervical ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "middle-meningeal-nerve",
+    "label": {
+      "en": "Middle meningeal nerve"
+    },
+    "description": {
+      "en": "Middle meningeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Middle meningeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "motor-nerve",
+    "label": {
+      "en": "Motor nerve"
+    },
+    "description": {
+      "en": "Motor nerve"
+    },
+    "aliases": {
+      "en": [
+        "Motor nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "muscular-branches-of-the-radial-nerve",
+    "label": {
+      "en": "Muscular branches of the radial nerve"
+    },
+    "description": {
+      "en": "Muscular branches of the radial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Muscular branches of the radial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "musculocutaneous-nerve",
+    "label": {
+      "en": "Musculocutaneous nerve"
+    },
+    "description": {
+      "en": "Musculocutaneous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Musculocutaneous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "mylohyoid-nerve",
+    "label": {
+      "en": "Mylohyoid nerve"
+    },
+    "description": {
+      "en": "Mylohyoid nerve"
+    },
+    "aliases": {
+      "en": [
+        "Mylohyoid nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nasociliary-nerve",
+    "label": {
+      "en": "Nasociliary nerve"
+    },
+    "description": {
+      "en": "Nasociliary nerve"
+    },
+    "aliases": {
+      "en": [
+        "Nasociliary nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nasopalatine-nerve",
+    "label": {
+      "en": "Nasopalatine nerve"
+    },
+    "description": {
+      "en": "Nasopalatine nerve"
+    },
+    "aliases": {
+      "en": [
+        "Nasopalatine nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nerve-of-pterygoid-canal",
+    "label": {
+      "en": "Nerve of pterygoid canal"
+    },
+    "description": {
+      "en": "Nerve of pterygoid canal"
+    },
+    "aliases": {
+      "en": [
+        "Nerve of pterygoid canal"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nerve-to-obturator-internus",
+    "label": {
+      "en": "Nerve to obturator internus"
+    },
+    "description": {
+      "en": "Nerve to obturator internus"
+    },
+    "aliases": {
+      "en": [
+        "Nerve to obturator internus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nerve-to-quadratus-femoris",
+    "label": {
+      "en": "Nerve to quadratus femoris"
+    },
+    "description": {
+      "en": "Nerve to quadratus femoris"
+    },
+    "aliases": {
+      "en": [
+        "Nerve to quadratus femoris"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nerve-to-the-piriformis",
+    "label": {
+      "en": "Nerve to the Piriformis"
+    },
+    "description": {
+      "en": "Nerve to the Piriformis"
+    },
+    "aliases": {
+      "en": [
+        "Nerve to the Piriformis"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nerve-to-the-stapedius",
+    "label": {
+      "en": "Nerve to the stapedius"
+    },
+    "description": {
+      "en": "Nerve to the stapedius"
+    },
+    "aliases": {
+      "en": [
+        "Nerve to the stapedius"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nerve-to-the-subclavius",
+    "label": {
+      "en": "Nerve to the subclavius"
+    },
+    "description": {
+      "en": "Nerve to the subclavius"
+    },
+    "aliases": {
+      "en": [
+        "Nerve to the subclavius"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nervus-intermedius",
+    "label": {
+      "en": "Nervus intermedius"
+    },
+    "description": {
+      "en": "Nervus intermedius"
+    },
+    "aliases": {
+      "en": [
+        "Nervus intermedius"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nervus-spinosus",
+    "label": {
+      "en": "Nervus spinosus"
+    },
+    "description": {
+      "en": "Nervus spinosus"
+    },
+    "aliases": {
+      "en": [
+        "Nervus spinosus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "nodose-ganglion",
+    "label": {
+      "en": "Nodose ganglion"
+    },
+    "description": {
+      "en": "Nodose ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Nodose ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "obturator-nerve",
+    "label": {
+      "en": "Obturator nerve"
+    },
+    "description": {
+      "en": "Obturator nerve"
+    },
+    "aliases": {
+      "en": [
+        "Obturator nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "oculomotor-nerve",
+    "label": {
+      "en": "Oculomotor nerve"
+    },
+    "description": {
+      "en": "Oculomotor nerve"
+    },
+    "aliases": {
+      "en": [
+        "Oculomotor nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "olfactory-nerve",
+    "label": {
+      "en": "Olfactory nerve"
+    },
+    "description": {
+      "en": "Olfactory nerve"
+    },
+    "aliases": {
+      "en": [
+        "Olfactory nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ophthalmic-nerve",
+    "label": {
+      "en": "Ophthalmic nerve"
+    },
+    "description": {
+      "en": "Ophthalmic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Ophthalmic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "optic-nerve",
+    "label": {
+      "en": "Optic nerve"
+    },
+    "description": {
+      "en": "Optic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Optic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "otic-ganglion",
+    "label": {
+      "en": "Otic ganglion"
+    },
+    "description": {
+      "en": "Otic ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Otic ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ovarian-plexus",
+    "label": {
+      "en": "Ovarian plexus"
+    },
+    "description": {
+      "en": "Ovarian plexus"
+    },
+    "aliases": {
+      "en": [
+        "Ovarian plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "palatine-nerve",
+    "label": {
+      "en": "Palatine nerve"
+    },
+    "description": {
+      "en": "Palatine nerve"
+    },
+    "aliases": {
+      "en": [
+        "Palatine nerve",
+        "Palatine nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "palmar-branch-of-the-median-nerve",
+    "label": {
+      "en": "Palmar branch of the median nerve"
+    },
+    "description": {
+      "en": "Palmar branch of the median nerve"
+    },
+    "aliases": {
+      "en": [
+        "Palmar branch of the median nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "palmar-branch-of-ulnar-nerve",
+    "label": {
+      "en": "Palmar branch of ulnar nerve"
+    },
+    "description": {
+      "en": "Palmar branch of ulnar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Palmar branch of ulnar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pancreatic-plexus",
+    "label": {
+      "en": "Pancreatic plexus"
+    },
+    "description": {
+      "en": "Pancreatic plexus"
+    },
+    "aliases": {
+      "en": [
+        "Pancreatic plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "patellar-plexus",
+    "label": {
+      "en": "Patellar plexus"
+    },
+    "description": {
+      "en": "Patellar plexus"
+    },
+    "aliases": {
+      "en": [
+        "Patellar plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pelvic-splanchnic-nerve",
+    "label": {
+      "en": "Pelvic splanchnic nerve"
+    },
+    "description": {
+      "en": "Pelvic splanchnic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Pelvic splanchnic nerve",
+        "Pelvic splanchnic nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "perforating-cutaneous-nerve",
+    "label": {
+      "en": "Perforating cutaneous nerve"
+    },
+    "description": {
+      "en": "Perforating cutaneous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Perforating cutaneous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "perineal-branches-of-posterior-femoral-cutaneous-nerve",
+    "label": {
+      "en": "Perineal branches of posterior femoral cutaneous nerve"
+    },
+    "description": {
+      "en": "Perineal branches of posterior femoral cutaneous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Perineal branches of posterior femoral cutaneous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "perineal-nerve",
+    "label": {
+      "en": "Perineal nerve"
+    },
+    "description": {
+      "en": "Perineal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Perineal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "petrous-ganglion",
+    "label": {
+      "en": "Petrous ganglion"
+    },
+    "description": {
+      "en": "Petrous ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Petrous ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pharyngeal-branch-of-vagus-nerve",
+    "label": {
+      "en": "Pharyngeal branch of vagus nerve"
+    },
+    "description": {
+      "en": "Pharyngeal branch of vagus nerve"
+    },
+    "aliases": {
+      "en": [
+        "Pharyngeal branch of vagus nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pharyngeal-branches-of-glossopharyngeal-nerve",
+    "label": {
+      "en": "Pharyngeal branches of glossopharyngeal nerve"
+    },
+    "description": {
+      "en": "Pharyngeal branches of glossopharyngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Pharyngeal branches of glossopharyngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pharyngeal-nerve",
+    "label": {
+      "en": "Pharyngeal nerve"
+    },
+    "description": {
+      "en": "Pharyngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Pharyngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pharyngeal-plexus",
+    "label": {
+      "en": "Pharyngeal plexus"
+    },
+    "description": {
+      "en": "Pharyngeal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Pharyngeal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "phrenic-nerve",
+    "label": {
+      "en": "Phrenic nerve"
+    },
+    "description": {
+      "en": "Phrenic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Phrenic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "phrenic-plexus",
+    "label": {
+      "en": "Phrenic plexus"
+    },
+    "description": {
+      "en": "Phrenic plexus"
+    },
+    "aliases": {
+      "en": [
+        "Phrenic plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-auricular-nerve",
+    "label": {
+      "en": "Posterior auricular nerve"
+    },
+    "description": {
+      "en": "Posterior auricular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Posterior auricular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-branch-of-spinal-nerve",
+    "label": {
+      "en": "Posterior branch of spinal nerve"
+    },
+    "description": {
+      "en": "Posterior branch of spinal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Posterior branch of spinal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-cord",
+    "label": {
+      "en": "Posterior cord"
+    },
+    "description": {
+      "en": "Posterior cord"
+    },
+    "aliases": {
+      "en": [
+        "Posterior cord"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-cutaneous-nerve-of-arm",
+    "label": {
+      "en": "Posterior cutaneous nerve of arm"
+    },
+    "description": {
+      "en": "Posterior cutaneous nerve of arm"
+    },
+    "aliases": {
+      "en": [
+        "Posterior cutaneous nerve of arm"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-cutaneous-nerve-of-forearm",
+    "label": {
+      "en": "Posterior cutaneous nerve of forearm"
+    },
+    "description": {
+      "en": "Posterior cutaneous nerve of forearm"
+    },
+    "aliases": {
+      "en": [
+        "Posterior cutaneous nerve of forearm"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-cutaneous-nerve-of-thigh",
+    "label": {
+      "en": "Posterior cutaneous nerve of thigh"
+    },
+    "description": {
+      "en": "Posterior cutaneous nerve of thigh"
+    },
+    "aliases": {
+      "en": [
+        "Posterior cutaneous nerve of thigh"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-scrotal-nerve",
+    "label": {
+      "en": "Posterior scrotal nerve"
+    },
+    "description": {
+      "en": "Posterior scrotal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Posterior scrotal nerve",
+        "Posterior scrotal nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "posterior-superior-alveolar-nerve",
+    "label": {
+      "en": "Posterior superior alveolar nerve"
+    },
+    "description": {
+      "en": "Posterior superior alveolar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Posterior superior alveolar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "proper-palmar-digital-nerves-of-median-nerve",
+    "label": {
+      "en": "Proper palmar digital nerves of median nerve"
+    },
+    "description": {
+      "en": "Proper palmar digital nerves of median nerve"
+    },
+    "aliases": {
+      "en": [
+        "Proper palmar digital nerve",
+        "Proper palmar digital nerves",
+        "Proper palmar digital nerves of median nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "prostatic-plexus-nerve",
+    "label": {
+      "en": "Prostatic plexus nerve"
+    },
+    "description": {
+      "en": "Prostatic plexus nerve"
+    },
+    "aliases": {
+      "en": [
+        "prostatic plexus",
+        "Prostatic plexus nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pterygopalatine-ganglion",
+    "label": {
+      "en": "Pterygopalatine ganglion"
+    },
+    "description": {
+      "en": "Pterygopalatine ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Pterygopalatine ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pudendal-nerve",
+    "label": {
+      "en": "Pudendal nerve"
+    },
+    "description": {
+      "en": "Pudendal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Pudendal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pudendal-plexus",
+    "label": {
+      "en": "Pudendal plexus"
+    },
+    "description": {
+      "en": "Pudendal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Pudendal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "pulmonary-branches-of-vagus-nerve",
+    "label": {
+      "en": "Pulmonary branches of vagus nerve"
+    },
+    "description": {
+      "en": "Pulmonary branches of vagus nerve"
+    },
+    "aliases": {
+      "en": [
+        "Pulmonary branches of vagus nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "radial-nerve",
+    "label": {
+      "en": "Radial nerve"
+    },
+    "description": {
+      "en": "Radial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Radial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "recurrent-laryngeal-nerve",
+    "label": {
+      "en": "Recurrent laryngeal nerve"
+    },
+    "description": {
+      "en": "Recurrent laryngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Recurrent laryngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "renal-plexus",
+    "label": {
+      "en": "Renal plexus"
+    },
+    "description": {
+      "en": "Renal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Renal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sacral-plexus",
+    "label": {
+      "en": "Sacral plexus"
+    },
+    "description": {
+      "en": "Sacral plexus"
+    },
+    "aliases": {
+      "en": [
+        "Sacral plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sacral-splanchnic-nerve",
+    "label": {
+      "en": "Sacral splanchnic nerve"
+    },
+    "description": {
+      "en": "Sacral splanchnic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Sacral splanchnic nerve",
+        "Sacral splanchnic nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "saphenous-nerve",
+    "label": {
+      "en": "Saphenous nerve"
+    },
+    "description": {
+      "en": "Saphenous nerve"
+    },
+    "aliases": {
+      "en": [
+        "Saphenous nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sciatic-nerve",
+    "label": {
+      "en": "Sciatic nerve"
+    },
+    "description": {
+      "en": "Sciatic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Sciatic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "semilunar-ganglion",
+    "label": {
+      "en": "Semilunar ganglion"
+    },
+    "description": {
+      "en": "Semilunar ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Semilunar ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sensory-nerve",
+    "label": {
+      "en": "Sensory nerve"
+    },
+    "description": {
+      "en": "Sensory nerve"
+    },
+    "aliases": {
+      "en": [
+        "Sensory nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "short-ciliary-nerve",
+    "label": {
+      "en": "Short ciliary nerve"
+    },
+    "description": {
+      "en": "Short ciliary nerve"
+    },
+    "aliases": {
+      "en": [
+        "Short ciliary nerve",
+        "Short ciliary nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sphenopalatine-nerve",
+    "label": {
+      "en": "Sphenopalatine nerve"
+    },
+    "description": {
+      "en": "Sphenopalatine nerve"
+    },
+    "aliases": {
+      "en": [
+        "Sphenopalatine nerve",
+        "Sphenopalatine nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "splenic-plexus",
+    "label": {
+      "en": "Splenic plexus"
+    },
+    "description": {
+      "en": "Splenic plexus"
+    },
+    "aliases": {
+      "en": [
+        "Splenic plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "stylohyoid-branch-of-facial-nerve",
+    "label": {
+      "en": "Stylohyoid branch of facial nerve"
+    },
+    "description": {
+      "en": "Stylohyoid branch of facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Stylohyoid branch of facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "subcostal-nerve",
+    "label": {
+      "en": "Subcostal nerve"
+    },
+    "description": {
+      "en": "Subcostal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Subcostal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "submandibular-ganglion",
+    "label": {
+      "en": "Submandibular ganglion"
+    },
+    "description": {
+      "en": "Submandibular ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Submandibular ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "suboccipital-nerve",
+    "label": {
+      "en": "Suboccipital nerve"
+    },
+    "description": {
+      "en": "Suboccipital nerve"
+    },
+    "aliases": {
+      "en": [
+        "Suboccipital nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superficial-branch-of-the-radial-nerve",
+    "label": {
+      "en": "Superficial branch of the radial nerve"
+    },
+    "description": {
+      "en": "Superficial branch of the radial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superficial branch of the radial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superficial-fibular-nerve",
+    "label": {
+      "en": "Superficial fibular nerve"
+    },
+    "description": {
+      "en": "Superficial fibular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superficial fibular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-cardiac-nerve",
+    "label": {
+      "en": "Superior cardiac nerve"
+    },
+    "description": {
+      "en": "Superior cardiac nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superior cardiac nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-cervical-ganglion",
+    "label": {
+      "en": "Superior cervical ganglion"
+    },
+    "description": {
+      "en": "Superior cervical ganglion"
+    },
+    "aliases": {
+      "en": [
+        "Superior cervical ganglion"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-ganglion-of-glossopharyngeal-nerve",
+    "label": {
+      "en": "Superior ganglion of glossopharyngeal nerve"
+    },
+    "description": {
+      "en": "Superior ganglion of glossopharyngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superior ganglion of glossopharyngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-ganglion-of-vagus-nerve",
+    "label": {
+      "en": "Superior ganglion of vagus nerve"
+    },
+    "description": {
+      "en": "Superior ganglion of vagus nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superior ganglion of vagus nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-gluteal-nerve",
+    "label": {
+      "en": "Superior gluteal nerve"
+    },
+    "description": {
+      "en": "Superior gluteal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superior gluteal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-hypogastric-plexus",
+    "label": {
+      "en": "Superior hypogastric plexus"
+    },
+    "description": {
+      "en": "Superior hypogastric plexus"
+    },
+    "aliases": {
+      "en": [
+        "Superior hypogastric plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-labial-nerve",
+    "label": {
+      "en": "Superior labial nerve"
+    },
+    "description": {
+      "en": "Superior labial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superior labial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-laryngeal-nerve",
+    "label": {
+      "en": "Superior laryngeal nerve"
+    },
+    "description": {
+      "en": "Superior laryngeal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Superior laryngeal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-lateral-cutaneous-nerve-of-arm",
+    "label": {
+      "en": "Superior lateral cutaneous nerve of arm"
+    },
+    "description": {
+      "en": "Superior lateral cutaneous nerve of arm"
+    },
+    "aliases": {
+      "en": [
+        "Superior lateral cutaneous nerve of arm"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-mesenteric-plexus",
+    "label": {
+      "en": "Superior mesenteric plexus"
+    },
+    "description": {
+      "en": "Superior mesenteric plexus"
+    },
+    "aliases": {
+      "en": [
+        "Superior mesenteric plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "superior-rectal-plexus",
+    "label": {
+      "en": "Superior rectal plexus"
+    },
+    "description": {
+      "en": "Superior rectal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Superior rectal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "supraclavicular-nerve",
+    "label": {
+      "en": "Supraclavicular nerve"
+    },
+    "description": {
+      "en": "Supraclavicular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Supraclavicular nerve",
+        "Supraclavicular nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "supraorbital-nerve",
+    "label": {
+      "en": "Supraorbital nerve"
+    },
+    "description": {
+      "en": "Supraorbital nerve"
+    },
+    "aliases": {
+      "en": [
+        "Supraorbital nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "suprarenal-plexus",
+    "label": {
+      "en": "Suprarenal plexus"
+    },
+    "description": {
+      "en": "Suprarenal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Suprarenal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "suprascapular-nerve",
+    "label": {
+      "en": "Suprascapular nerve"
+    },
+    "description": {
+      "en": "Suprascapular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Suprascapular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "supratrochlear-nerve",
+    "label": {
+      "en": "Supratrochlear nerve"
+    },
+    "description": {
+      "en": "Supratrochlear nerve"
+    },
+    "aliases": {
+      "en": [
+        "Supratrochlear nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sural-nerve",
+    "label": {
+      "en": "Sural nerve"
+    },
+    "description": {
+      "en": "Sural nerve"
+    },
+    "aliases": {
+      "en": [
+        "Sural nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "sympathetic-trunk",
+    "label": {
+      "en": "Sympathetic trunk"
+    },
+    "description": {
+      "en": "Sympathetic trunk"
+    },
+    "aliases": {
+      "en": [
+        "Sympathetic trunk"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "temporal-branches-of-the-facial-nerve",
+    "label": {
+      "en": "Temporal branches of the facial nerve"
+    },
+    "description": {
+      "en": "Temporal branches of the facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Temporal branches of the facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "third-occipital-nerve",
+    "label": {
+      "en": "Third occipital nerve"
+    },
+    "description": {
+      "en": "Third occipital nerve"
+    },
+    "aliases": {
+      "en": [
+        "Third occipital nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "thoracic-aortic-plexus",
+    "label": {
+      "en": "Thoracic aortic plexus"
+    },
+    "description": {
+      "en": "Thoracic aortic plexus"
+    },
+    "aliases": {
+      "en": [
+        "Thoracic aortic plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "thoracic-splanchnic-nerve",
+    "label": {
+      "en": "Thoracic splanchnic nerve"
+    },
+    "description": {
+      "en": "Thoracic splanchnic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Thoracic splanchnic nerve",
+        "Thoracic splanchnic nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "thoraco-abdominal-nerve",
+    "label": {
+      "en": "Thoraco-abdominal nerve"
+    },
+    "description": {
+      "en": "Thoraco-abdominal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Thoraco-abdominal nerve",
+        "Thoraco-abdominal nerves"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "thoracodorsal-nerve",
+    "label": {
+      "en": "Thoracodorsal nerve"
+    },
+    "description": {
+      "en": "Thoracodorsal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Thoracodorsal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "tibial-nerve",
+    "label": {
+      "en": "Tibial nerve"
+    },
+    "description": {
+      "en": "Tibial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Tibial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "transverse-cervical-nerve",
+    "label": {
+      "en": "Transverse cervical nerve"
+    },
+    "description": {
+      "en": "Transverse cervical nerve"
+    },
+    "aliases": {
+      "en": [
+        "Transverse cervical nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "trigeminal-nerve",
+    "label": {
+      "en": "Trigeminal nerve"
+    },
+    "description": {
+      "en": "Trigeminal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Trigeminal nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "trochlear-nerve",
+    "label": {
+      "en": "Trochlear nerve"
+    },
+    "description": {
+      "en": "Trochlear nerve"
+    },
+    "aliases": {
+      "en": [
+        "Trochlear nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "tympanic-nerve",
+    "label": {
+      "en": "Tympanic nerve"
+    },
+    "description": {
+      "en": "Tympanic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Tympanic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ulnar-nerve",
+    "label": {
+      "en": "Ulnar nerve"
+    },
+    "description": {
+      "en": "Ulnar nerve"
+    },
+    "aliases": {
+      "en": [
+        "Ulnar nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "upper-subscapular-nerve",
+    "label": {
+      "en": "Upper subscapular nerve"
+    },
+    "description": {
+      "en": "Upper subscapular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Upper subscapular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "uterovaginal-plexus",
+    "label": {
+      "en": "Uterovaginal plexus"
+    },
+    "description": {
+      "en": "Uterovaginal plexus"
+    },
+    "aliases": {
+      "en": [
+        "Uterovaginal plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "vagus-nerve",
+    "label": {
+      "en": "Vagus nerve"
+    },
+    "description": {
+      "en": "Vagus nerve"
+    },
+    "aliases": {
+      "en": [
+        "Vagus nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "ventral-ramus",
+    "label": {
+      "en": "Ventral ramus"
+    },
+    "description": {
+      "en": "Ventral ramus"
+    },
+    "aliases": {
+      "en": [
+        "Ventral ramus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "vesical-nervous-plexus",
+    "label": {
+      "en": "Vesical nervous plexus"
+    },
+    "description": {
+      "en": "Vesical nervous plexus"
+    },
+    "aliases": {
+      "en": [
+        "Vesical nervous plexus"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "vestibular-nerve",
+    "label": {
+      "en": "Vestibular nerve"
+    },
+    "description": {
+      "en": "Vestibular nerve"
+    },
+    "aliases": {
+      "en": [
+        "Vestibular nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "vestibulocochlear-nerve",
+    "label": {
+      "en": "Vestibulocochlear nerve"
+    },
+    "description": {
+      "en": "Vestibulocochlear nerve"
+    },
+    "aliases": {
+      "en": [
+        "Vestibulocochlear nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "zygomatic-branches-of-facial-nerve",
+    "label": {
+      "en": "Zygomatic branches of facial nerve"
+    },
+    "description": {
+      "en": "Zygomatic branches of facial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Zygomatic branches of facial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "zygomatic-nerve",
+    "label": {
+      "en": "Zygomatic nerve"
+    },
+    "description": {
+      "en": "Zygomatic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Zygomatic nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "zygomaticofacial-nerve",
+    "label": {
+      "en": "Zygomaticofacial nerve"
+    },
+    "description": {
+      "en": "Zygomaticofacial nerve"
+    },
+    "aliases": {
+      "en": [
+        "Zygomaticofacial nerve"
+      ]
+    },
+    "category": "nerve"
+  },
+  {
+    "id": "zygomaticotemporal-nerve",
+    "label": {
+      "en": "Zygomaticotemporal nerve"
+    },
+    "description": {
+      "en": "Zygomaticotemporal nerve"
+    },
+    "aliases": {
+      "en": [
+        "Zygomaticotemporal nerve"
+      ]
+    },
+    "category": "nerve"
+  }
+]
